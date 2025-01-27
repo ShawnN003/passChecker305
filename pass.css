@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(223, 223, 223);
+}
+
+h1,h5{
+    color:rgb(13, 255, 0)
+}
+
+p{
+    color: red;
+}
+
+button{
+    background-color: #13aa52;
+    border: 2px solid #13aa52;
+    border-radius: 10px;
+    cursor: pointer;    
+    font-size: 12px;
+    padding: 8px 8px;
+    text-align: center;
+
+}
+
